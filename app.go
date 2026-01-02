@@ -5,7 +5,7 @@ package main
 */
 
 import (
-	"example.com/m/pages"
+	"github.com/maziyar-redox/entg-client/pages"
 	"github.com/rivo/tview"
 )
 

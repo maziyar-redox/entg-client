@@ -1,4 +1,4 @@
-module example.com/m
+module github.com/maziyar-redox/entg-client
 
 go 1.25.4
 
